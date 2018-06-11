@@ -1,0 +1,4 @@
+/env
+
+/dataSet/*.jpg
+/trainer/*.yml
